@@ -61,4 +61,4 @@ __________________________________________
 
 ## 🎓 Certificate Verification
 To view the program curriculum or verify my credential:
-* **Course Provider:** [IBM Skills Network](https://www.credly.com/organizations/ibm) via Coursera.
+* **Course Provider:** [IBM Skills Network](https://www.coursera.org/account/accomplishments/specialization/10PP9LOFOG1Q) via Coursera.
